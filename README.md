@@ -1,7 +1,7 @@
 # my-data-analysis
 
 
-* Masters Thesis
+* Masters Thesis Title: *Behavioural Analytics and Prediction with eCommerce Transactional Data*
   - Masters Thesis Final PMcMahon.pdf : Main thesis report explaining all project work undertaken.
   - DataExploration.pdf : R code used to explore the data variables etc.
   - AggregatedRegression.pdf : R code used to run machine learning techniques on the aggregated form of the data.
