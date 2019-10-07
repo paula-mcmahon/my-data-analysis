@@ -22,6 +22,7 @@
   - firearmsProjectDataExploration.sas : screening for missing values, field formatting, graphing trends, data aggregation
   - firearmsProjectDataVisualisation.sas : producing plots to show trends over time, states with largest values and comparison of data per year.
 
+
 * *BigDataAndDataBrokerage.pdf* : This was an assignment from a module called Critical Data Studies. It looks at the ethics of Big Data and the Data Brokerage industry i.e. the buying and selling of our data between companies.
 <br>
 <br>
